@@ -49,6 +49,9 @@ const applicantSchema = new mongoose.Schema({
         type: Boolean,
         required: [true],
     },
+    fees:{
+        type:Number
+    }
 });
 
 module.exports = mongoose.model("Applicant", applicantSchema);

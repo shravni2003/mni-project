@@ -53,7 +53,7 @@ const Procedure = () => {
                 <p>
 
                 <b>Bank Details</b>: Bank of India,Vishrambag,Sangli <br /> 
-                                       <b> A/c No</b>: 150710110000187 <br />
+                                       <b> A/c No</b>:150710110000187 <br />
                                        <b> IFSC</b>:BKID0001507 <br />
                                        <b> MICR</b>:416013154. <br />
                 </p>
